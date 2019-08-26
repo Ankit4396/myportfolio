@@ -1,5 +1,5 @@
 {
-    "name": "Madan Lal",
+    "name": "Ankit Jaiswal",
     "title": "Full Stack Developer",
     "intro": "I am a full stack developer.",
     "skills": [{
@@ -20,7 +20,7 @@
     ],
     "contact": {
         "location": "Lovely Professional University",
-        "phone": "1234567890",
-        "email": "madanparmar637@gmail.com"
+       
+        "email": "ankit.jaiswal4396@gmail.com"
     }
 }
